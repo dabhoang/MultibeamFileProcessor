@@ -1,0 +1,14 @@
+C:\Users\Dad\source\repos\Multibeam\bin\Debug\net8.0\Multibeam.exe
+C:\Users\Dad\source\repos\Multibeam\bin\Debug\net8.0\Multibeam.deps.json
+C:\Users\Dad\source\repos\Multibeam\bin\Debug\net8.0\Multibeam.runtimeconfig.json
+C:\Users\Dad\source\repos\Multibeam\bin\Debug\net8.0\Multibeam.dll
+C:\Users\Dad\source\repos\Multibeam\bin\Debug\net8.0\Multibeam.pdb
+C:\Users\Dad\source\repos\Multibeam\obj\Debug\net8.0\Multibeam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dad\source\repos\Multibeam\obj\Debug\net8.0\Multibeam.AssemblyInfoInputs.cache
+C:\Users\Dad\source\repos\Multibeam\obj\Debug\net8.0\Multibeam.AssemblyInfo.cs
+C:\Users\Dad\source\repos\Multibeam\obj\Debug\net8.0\Multibeam.csproj.CoreCompileInputs.cache
+C:\Users\Dad\source\repos\Multibeam\obj\Debug\net8.0\Multibeam.dll
+C:\Users\Dad\source\repos\Multibeam\obj\Debug\net8.0\refint\Multibeam.dll
+C:\Users\Dad\source\repos\Multibeam\obj\Debug\net8.0\Multibeam.pdb
+C:\Users\Dad\source\repos\Multibeam\obj\Debug\net8.0\Multibeam.genruntimeconfig.cache
+C:\Users\Dad\source\repos\Multibeam\obj\Debug\net8.0\ref\Multibeam.dll
