@@ -1,2 +1,3 @@
 To run: clone repository, build using Visual Studio, then run executable. To run unit test, add command line argument of 'u' - for example,  "./Multibeam.exe u"
 In appsettings.json, MaxFileSizeMB and AllowedExtensions are used for validation. MaxFileSizeMB for comparing checksum size and AllowedExtensions for checking extension of input file.
+My approach listens for any files added to the Input folder. Once a new file is detected, it is checked to see if it's fully written. If fully written, the Checksum, Validation, and Compression steps are performed. If a step fails, it's moved to the Failed folder. Otherwise, the compressed .gz is placed in the Output folder and the original is moved to Archive.
